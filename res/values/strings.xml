@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Register</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title">DIGITAL AGE INSTITUTE REGISTRATION</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="email">Email Address</string>
+    <string name="phone">Phone Number</string>
+    <string name="about">About</string>
+    <string name="submit">Submit</string>
+    <string name="developername">Name: Evalyne Mukii</string>
+    <string name="developeremail">Email : evalynemukii@gmail.com</string>
+    <string name="developernumber">Contacts: 0736368830, 0723927374</string>
+    <string name="developerdetails">Developer Profile</string>
+    <string name="dai">Contacts</string>
+    <string name="name">Digital Age Institute Ltd</string>
+    <string name="contacts">+254 733 936 145 |  +254 20 221 1154 | +254 716 89 86 83 </string>
+    <string name="daiemail">contacts@digitalageinstitute.com</string>
+    <string name="location">View Park Towers, 16th floor, 6 Utalii Lane, Nairobi, Kenya - Digital Wing</string>
+    <string name="mobile">Mobile:</string>
+    <string name="Email">Email:</string>
+    <string name="Location">Location:</string>
+
+</resources>
